@@ -1,4 +1,10 @@
-html {
-  height: 100%;
-  width: 100%;
+.content-table {
+  border-collapse:collapse;
+  margin:25px 0;
+  font: size 0.9em;
+  min: width 400px;
+}
+.content-table thead tr {
+  background-color: grey;
+  color:maroon
 }
